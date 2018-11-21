@@ -23,4 +23,4 @@ public IEnumerator AnimateTheThing(float from, float to, float duration)
 Easy peasy! :)
 
 # Installation
-You can either just grab the Easee.cs file straight from the source (it's the only thing you need) or you can download one of the .unitypackage files in the Releases tab. One of them has an example scene if you enjoy watching red shiny spheres lerp back and forth.
+You can either just grab the `Easee.cs` file straight from the source (it's the only thing you need) or you can download one of the .unitypackage files in the Releases tab. One of them has an example scene if you enjoy watching red shiny spheres lerp back and forth.
